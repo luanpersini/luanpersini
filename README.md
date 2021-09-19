@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luanpersini
-- 👀 I’m interested in microservices, development, software architecture
+- 👀 I’m interested in development and software architecture
 - 🌱 I’m currently learning Typescript, Node, TDD, React, Clean Architecture, Solid
 - 📫 How to reach me https://www.linkedin.com/in/luan-persini-80a6572b/
 

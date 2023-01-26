@@ -2,7 +2,9 @@
 
 I’m Luan Persini, a Fullstack developer with 5+ years of experience working with software development and testing (QA). I have good knowledge of NodeJs, Typescript, solid, clean code, and API testing with Jest. I have a good range of experience and graduations related to business and process improvement in general.
 
-In this repository you will find materials about Typescript, Node, C# .Net and, Software Testing, with theory and practice. Hope you enjoy it.
+My currently goal is to improve my skills in C# and Java SpringBoot. At the same time, i want to keep evolving in my main stack, writhing about advanced topics of Typescript and Learning Vue, Next and Angular for the frontend.
+
+In this repository you will find materials about Typescript, NodeJS, C#, Software Testing, and other related technologies, with theory and practice. Hope you enjoy it.
 
 How to reach me: https://www.linkedin.com/in/luan-persini-80a6572b/
 

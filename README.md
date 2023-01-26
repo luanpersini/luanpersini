@@ -31,4 +31,6 @@ How to reach me: https://www.linkedin.com/in/luan-persini-80a6572b/
 ## C# .Net
 
 - [MVC Crud Implementation using .NetCore 7.0 and Entity Framework](https://github.com/luanpersini/dotnet-mvc-saleswebmvc)
+- [Unit test basics using XUnit and Moq](https://github.com/luanpersini/dotnet-unit-tests)
+
 

@@ -1,10 +1,13 @@
-👋 Hi, I’m Luan Persini
+### 👋 Hi, I’m Luan Persini
 
-I have 5+ years of experience with software development and testing. Im specializing in API development and i have solid knowledge in NodeJs, Typescript, solid, clean code, and API testing with Jest. Im also improving my skills in C# .Net. I have a good range of experience and graduations related to business processes and process improvement in general.
+I have 5+ years of experience with software development and testing. Im specializing in API development and i have good knowledge of NodeJs, Typescript, solid, clean code, and API testing with Jest. Im also improving my skills in C# .Net. I have a good range of experience and graduations related to business and process improvement in general.
 
-How to reach me: <a href="https://www.linkedin.com/in/luan-persini-80a6572b/">
+In this repository you will find materials about Typescript, Node, C# .Net and Software Testing.
+
+<p>How to reach me: <a href="https://www.linkedin.com/in/luan-persini-80a6572b/">
   <img align="left" alt="Luan Persini Linkedin" width="66px" src="linkedin-original-wordmark.svg" />
 </a>
+</p>
 ---
 💻 Main Tech Stack
 

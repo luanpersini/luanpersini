@@ -2,13 +2,12 @@
 
 I have 5+ years of experience with software development and testing. Im specializing in API development and i have good knowledge of NodeJs, Typescript, solid, clean code, and API testing with Jest. Im also improving my skills in C# .Net. I have a good range of experience and graduations related to business and process improvement in general.
 
-In this repository you will find materials about Typescript, Node, C# .Net and Software Testing.
-
-How to reach me:
-
 <a href="https://www.linkedin.com/in/luan-persini-80a6572b/">
   <img alt="Luan Persini Linkedin" width="66px" src="linkedin-original-wordmark.svg" />
 </a>
+
+In this repository you will find materials about Typescript, Node, C# .Net and Software Testing. Hope you enjoy.
+
 ---
 💻 Main Tech Stack
 

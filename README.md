@@ -4,7 +4,7 @@ I’m Luan Persini, a Fullstack developer with 5+ years of experience working wi
 
 My currently goal is to improve my skills in C# and Java SpringBoot and, at the same time, keep evolving in my main stack, writhing about advanced topics of Typescript and Learning Vue, Next and Angular for the frontend.
 
-In this repository you will find materials about Typescript, NodeJS, C#, Software Testing, and other related technologies, with theory and practice. Hope you enjoy it.
+In this repository you will find content about Typescript, NodeJS, C#, Software Testing, and other related technologies, with theory and practice. Hope you enjoy it.
 
 How to reach me: https://www.linkedin.com/in/luan-persini-80a6572b/
 

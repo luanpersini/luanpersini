@@ -26,8 +26,6 @@ How to reach me: https://www.linkedin.com/in/luan-persini-80a6572b/
 - [CRUD using NestJS with Swagger, NestJS Logger](https://github.com/luanpersini/venturus-backend-printer-challange)
 
 
-<br>
-
 ## C# .Net
 
 - [MVC Crud Implementation using .NetCore 7.0 and Entity Framework](https://github.com/luanpersini/dotnet-mvc-saleswebmvc)

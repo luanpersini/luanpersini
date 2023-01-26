@@ -5,7 +5,7 @@ I have 5+ years of experience with software development and testing. Im speciali
 In this repository you will find materials about Typescript, Node, C# .Net and Software Testing.
 
 <p>How to reach me: <a href="https://www.linkedin.com/in/luan-persini-80a6572b/">
-  <img align="left" alt="Luan Persini Linkedin" width="66px" src="linkedin-original-wordmark.svg" />
+  <img alt="Luan Persini Linkedin" width="66px" src="linkedin-original-wordmark.svg" />
 </a>
 </p>
 ---

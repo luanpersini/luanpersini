@@ -10,7 +10,7 @@
 
 :student: Im Also Getting Good At
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="45" height="45" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="45" height="45" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45" height="45" /> <img src="xunit.png" alt="xunit" width="45" height="45" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="45" height="45" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="45" height="45" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45" height="45" /> <img src="xunit.png" alt="xunit" width="55" height="45" />
 
 ---
 https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg

@@ -26,7 +26,7 @@ How to reach me: https://www.linkedin.com/in/luan-persini-80a6572b/
 - [CQS Implementation using NestJS](https://github.com/luanpersini/nodejs-nestjs-cqs)
 - [Testing NodeJS/NestJS APIs Using Jest - Unit, Integration and End-To-End tests](https://github.com/luanpersini/tests-node-backend-tests-using-jest-typescript)
 - [CRUD using NestJS with Swagger, NestJS Logger](https://github.com/luanpersini/venturus-backend-printer-challange)
-- [Concurrency with async/await and promisse.all](https://github.com/luanpersini/content-typescript#handling-multiple-calls-with-asyncawait-and-promiseall)
+- [Concurrency with async/await and promisse.all](https://github.com/luanpersini/content-typescript/blob/main/README.md#concurrency-with-asyncawait-and-promisseall)
 
 
 ## C# .Net
